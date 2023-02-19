@@ -1,4 +1,6 @@
-﻿Console.Clear();
+﻿//принимает на вход координаты двух точек и находит разницу между ними 
+//в 2D пространстве
+Console.Clear();
 Console.Write("Введите Х1: ");
 double x1 = double.Parse(Console.ReadLine());
 Console.Write("Введите Y1: ");
