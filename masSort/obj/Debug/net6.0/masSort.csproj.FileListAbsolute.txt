@@ -1,0 +1,15 @@
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\bin\Debug\net6.0\masSort.exe
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\bin\Debug\net6.0\masSort.deps.json
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\bin\Debug\net6.0\masSort.runtimeconfig.json
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\bin\Debug\net6.0\masSort.dll
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\bin\Debug\net6.0\masSort.pdb
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\obj\Debug\net6.0\masSort.csproj.AssemblyReference.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\obj\Debug\net6.0\masSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\obj\Debug\net6.0\masSort.AssemblyInfoInputs.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\obj\Debug\net6.0\masSort.AssemblyInfo.cs
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\obj\Debug\net6.0\masSort.csproj.CoreCompileInputs.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\obj\Debug\net6.0\masSort.dll
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\obj\Debug\net6.0\refint\masSort.dll
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\obj\Debug\net6.0\masSort.pdb
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\obj\Debug\net6.0\masSort.genruntimeconfig.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\masSort\obj\Debug\net6.0\ref\masSort.dll
