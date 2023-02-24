@@ -1,0 +1,15 @@
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\bin\Debug\net6.0\CycleInCycle.exe
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\bin\Debug\net6.0\CycleInCycle.deps.json
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\bin\Debug\net6.0\CycleInCycle.runtimeconfig.json
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\bin\Debug\net6.0\CycleInCycle.dll
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\bin\Debug\net6.0\CycleInCycle.pdb
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\obj\Debug\net6.0\CycleInCycle.csproj.AssemblyReference.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\obj\Debug\net6.0\CycleInCycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\obj\Debug\net6.0\CycleInCycle.AssemblyInfoInputs.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\obj\Debug\net6.0\CycleInCycle.AssemblyInfo.cs
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\obj\Debug\net6.0\CycleInCycle.csproj.CoreCompileInputs.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\obj\Debug\net6.0\CycleInCycle.dll
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\obj\Debug\net6.0\refint\CycleInCycle.dll
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\obj\Debug\net6.0\CycleInCycle.pdb
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\obj\Debug\net6.0\CycleInCycle.genruntimeconfig.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\CycleInCycle\obj\Debug\net6.0\ref\CycleInCycle.dll
