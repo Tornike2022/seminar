@@ -1,0 +1,15 @@
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\obj\Debug\net6.0\replaceWithFor.csproj.AssemblyReference.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\obj\Debug\net6.0\replaceWithFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\obj\Debug\net6.0\replaceWithFor.AssemblyInfoInputs.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\obj\Debug\net6.0\replaceWithFor.AssemblyInfo.cs
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\obj\Debug\net6.0\replaceWithFor.csproj.CoreCompileInputs.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\bin\Debug\net6.0\replaceWithFor.exe
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\bin\Debug\net6.0\replaceWithFor.deps.json
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\bin\Debug\net6.0\replaceWithFor.runtimeconfig.json
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\bin\Debug\net6.0\replaceWithFor.dll
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\bin\Debug\net6.0\replaceWithFor.pdb
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\obj\Debug\net6.0\replaceWithFor.dll
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\obj\Debug\net6.0\refint\replaceWithFor.dll
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\obj\Debug\net6.0\replaceWithFor.pdb
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\obj\Debug\net6.0\replaceWithFor.genruntimeconfig.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\replaceWithFor\obj\Debug\net6.0\ref\replaceWithFor.dll
