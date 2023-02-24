@@ -1,0 +1,15 @@
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\obj\Debug\net6.0\cycleFOR.csproj.AssemblyReference.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\obj\Debug\net6.0\cycleFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\obj\Debug\net6.0\cycleFOR.AssemblyInfoInputs.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\obj\Debug\net6.0\cycleFOR.AssemblyInfo.cs
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\obj\Debug\net6.0\cycleFOR.csproj.CoreCompileInputs.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\bin\Debug\net6.0\cycleFOR.exe
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\bin\Debug\net6.0\cycleFOR.deps.json
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\bin\Debug\net6.0\cycleFOR.runtimeconfig.json
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\bin\Debug\net6.0\cycleFOR.dll
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\bin\Debug\net6.0\cycleFOR.pdb
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\obj\Debug\net6.0\cycleFOR.dll
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\obj\Debug\net6.0\refint\cycleFOR.dll
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\obj\Debug\net6.0\cycleFOR.pdb
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\obj\Debug\net6.0\cycleFOR.genruntimeconfig.cache
+C:\Users\alpa9\OneDrive\Рабочий стол\lecture\cycleFOR\obj\Debug\net6.0\ref\cycleFOR.dll
